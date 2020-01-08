@@ -2,3 +2,8 @@ Warning()
 {
 
 }
+
+~Warning()
+{
+
+}
