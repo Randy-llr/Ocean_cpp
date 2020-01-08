@@ -3,3 +3,5 @@ This is my first document for studying Git.
 
 Hello everyone, I am Randy.
 From Soochow of Jiangsu province of China.
+
+My favourite game is League of Legend
