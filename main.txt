@@ -1,2 +1,4 @@
 2020-01-08
 This is my first document for studying Git.
+
+Hello everyone, I am Randy.
