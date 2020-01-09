@@ -1,3 +1,5 @@
+#include "Warning.h"
+
 Warning::Warning()
 {
 
