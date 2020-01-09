@@ -1,9 +1,9 @@
-Warning()
+Warning::Warning()
 {
 
 }
 
-~Warning()
+virtual Warning::~Warning()
 {
 
 }
